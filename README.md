@@ -1,4 +1,4 @@
-# hw-dom-moving-item
+# hw-dom-moving-item[![Build status](https://ci.appveyor.com/api/projects/status/pfrlgv11cagwpwgt?svg=true)](https://ci.appveyor.com/project/DenViRus/ahj-dom-moving-item)
 
 ---
 
