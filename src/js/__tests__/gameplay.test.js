@@ -1,3 +1,3 @@
-test("check cells count", () => {
+test('check cells count', () => {
   expect(5).toBe(5);
 });
